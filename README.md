@@ -1,13 +1,16 @@
 # HEEUP_rebuttal-Reviewer-4
 
-Regarding **EnergPlus**. If you are interested, you can further refer to:
-## Simulator: https://energyplus.net/
-## Related Data Standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings -->
+About **EnergPlus**. If you are interested, you can further refer to:
+- Simulator: https://energyplus.net/
+- Related data standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings -->
+  
+Please provide information according to relevant data standards to obtain idf (detailed indicators of various types of energy consumption that buildings may produce) and epw (related weather energy consumption indicators). After input, the energy consumption specific to the building will be simulated. visible
+
 
 ## Figure 5(b) Supplement
 We have additionally added the urban function type corresponding to 25*25. Each urban function type has a corresponding standard energy consumption. By comparison, it can be found that the energy consumption of buildings within the grid area is consistent with the energy consumption of urban structures. This proves that the HEEUP planning strategy is based on reasonable layout.
 
-Energy-efficient urban planning aims to harmonize energy efficiency with the structural framework of urban development. For example, while lower energy consumption is a positive indicator of efficiency, it must be balanced against the risk of resulting in a less than ideal urban layout.
+The goal of HEEUP is not just to reduce energy consumption, but to ensure the rationality of urban structures → land use configuration → building design. This approach emphasizes the importance of overall planning while also taking into account the need for energy conservation.
 
 ## Displays the relative energy intensity of all buildings in each of the 25*25 grids.
 
@@ -16,6 +19,21 @@ Energy-efficient urban planning aims to harmonize energy efficiency with the str
 
 ## Displays the LCZ category corresponding to the relative energy intensity of all buildings in each of the 25*25 grids.
 ![alt text](LCZ.png)
+
+### Building Type Energy Consumption
+
+| Code | Energy Usage (kWh) | | Code | Energy Usage (kWh) |
+|------|--------------------|-|------|--------------------|
+| 0    | 4,439.06           | | 8    | 3,307.50           |
+| 1    | 5,186.65           | | 9    | 5,643.98           |
+| 2    | 65,149.95          | | 10   | 21,095.52          |
+| 3    | 14,070.69          | | 11   | 9,477.88           |
+| 4    | 9,170.01           | | 12   | 24,177.49          |
+| 5    | 984.60             | | 13   | 54,797.58          |
+| 6    | 3,981.91           | | 14   | 96,722.39          |
+| 7    | 5,192.43           | | 15   | 135,819.14         |
+
+
 
 ### Local Climate Zone Energy Consumption
 
