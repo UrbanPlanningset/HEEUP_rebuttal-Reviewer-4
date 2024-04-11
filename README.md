@@ -5,7 +5,9 @@ Regarding **EnergPlus**. If you are interested, you can further refer to:
 ## Related Data Standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings -->
 
 ## Figure 5(b) Supplement
-Efficient energy-saving urban planning aims to harmonize energy efficiency with the structural framework of urban development. For example, while lower energy consumption is a positive indicator of efficiency, it must be balanced against the risk of resulting in a less than ideal urban layout. An effective energy-saving urban planning strategy should be based on reasonable layout.
+We have additionally added the urban function type corresponding to 25*25. Each urban function type has a corresponding standard energy consumption. By comparison, it can be found that the energy consumption of buildings within the grid area is consistent with the energy consumption of urban structures. This proves that the HEEUP planning strategy is based on reasonable layout.
+
+Energy-efficient urban planning aims to harmonize energy efficiency with the structural framework of urban development. For example, while lower energy consumption is a positive indicator of efficiency, it must be balanced against the risk of resulting in a less than ideal urban layout.
 
 ## Displays the relative energy intensity of all buildings in each of the 25*25 grids.
 
@@ -15,6 +17,7 @@ Efficient energy-saving urban planning aims to harmonize energy efficiency with 
 ## Displays the LCZ category corresponding to the relative energy intensity of all buildings in each of the 25*25 grids.
 ![alt text](LCZ.png)
 
+### Local Climate Zone Energy Consumption
 
 | LCZ  | Energy Consumption (kWh) | | LCZ  | Energy Consumption (kWh) |
 |------|---------------------------|-|------|---------------------------|
