@@ -9,11 +9,11 @@ Efficient energy-saving urban planning aims to harmonize energy efficiency with 
 
 ## Displays the relative energy intensity of all buildings in each of the 25*25 grids.
 
-![alt text](Energy.PNG)
+![alt text](Energy.png)
 
 
 ## Displays the LCZ category corresponding to the relative energy intensity of all buildings in each of the 25*25 grids.
-![alt text](LCZ.PNG)
+![alt text](LCZ.png)
 
 
 | LCZ  | Energy Consumption (kWh) | | LCZ  | Energy Consumption (kWh) |
