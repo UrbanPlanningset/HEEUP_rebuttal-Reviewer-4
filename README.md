@@ -26,7 +26,7 @@ The goal of HEEUP is not just to reduce energy consumption, but to ensure the ra
 
 
 ## Displays the LCZ category corresponding to the relative energy intensity of all buildings in each of the 25*25 grids.
-![alt text](LCZ.png)
+![alt text](LCZ_gird.png)
 
 ### Building Type Energy Consumption
 
