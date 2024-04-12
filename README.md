@@ -56,7 +56,7 @@ The goal of HEEUP is not just to reduce energy consumption, but to ensure the ra
 | 6    | 5,326,511.59              | | 14   | 933,454.423               |
 | 7    | 2,059,901.91              | | 15   | 246,323.32                |
 
-### Local Climate Zone
+### Local Climate Zone (LCZ)
 
 | Code | Building Themes        | Code | Building Themes             |
 |------|------------------------|------|-----------------------------|
