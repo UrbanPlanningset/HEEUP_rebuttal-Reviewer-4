@@ -3,7 +3,9 @@
 About **EnergPlus**. If you are interested, you can further refer to:
 - Simulator: https://energyplus.net/
 - Related data standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings -->
+
 ![alt text](EnergyPlus_Graphical_Interace.png）
+
 Please provide information according to relevant data standards to obtain idf (detailed indicators of various types of energy consumption that buildings may produce) and epw (related weather energy consumption indicators). After input, the energy consumption specific to the building will be simulated. visible
 
 
