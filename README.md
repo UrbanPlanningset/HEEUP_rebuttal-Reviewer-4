@@ -2,12 +2,18 @@
 
 About **EnergPlus**. If you are interested, you can further refer to:
 - Simulator: https://energyplus.net/
-- Related data standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings -->
+- Related data standards: https://www.energy.gov/eere/buildings/new-construction-commercial-referencebuildings 
+- EnergyPlus_Graphical_Interace
+  
+![alt text](EnergyPlus_Graphical_Interace.png)
 
-![alt text](EnergyPlus_Graphical_Interace.png）
+Please provide information according to relevant data standards to obtain idf (detailed indicators of various types of energy consumption that buildings may produce) and epw (related weather energy consumption indicators). After input, the energy consumption specific to the building will be simulated. 
 
-Please provide information according to relevant data standards to obtain idf (detailed indicators of various types of energy consumption that buildings may produce) and epw (related weather energy consumption indicators). After input, the energy consumption specific to the building will be simulated. visible
+- [Link example_epw](./1A_USA_FL_MIAMI.epw)
 
+- [Link example_idf](./RefBldgFullServiceRestaurantNew2004_v1.3_5.0_1A_USA_FL_MIAMI.idf)
+
+- [Link example_input_output](./RefBldgFullServiceRestaurantNew2004_v1.3_5.0_1A_USA_FL_MIAMI.html)
 
 ## Figure 5(b) Supplement
 We have additionally added the urban function type corresponding to 25*25. Each urban function type has a corresponding standard energy consumption. By comparison, it can be found that the energy consumption of buildings within the grid area is consistent with the energy consumption of urban structures. This proves that the HEEUP planning strategy is based on reasonable layout.
