@@ -16,24 +16,27 @@ Please provide information according to relevant data standards to obtain idf (d
 - [Link example_input_output](./RefBldgFullServiceRestaurantNew2004_v1.3_5.0_1A_USA_FL_MIAMI.html)
 ---
 ## Figure 5(b) Supplement
+
 What we want to show through the illustration is that the goal of HEEUP is not only to reduce energy consumption, but also to ensure the rationality of the overall layout of urban structure, land use configuration and architectural design.
 
 Note that different building types within the 25x25 grid form independent building distributions (building types in table 1). Different building distributions form corresponding urban structure types (Table 3). For example, a large number of Large offices are distributed to form Compact high-rise. In addition, each building type energy consumption and urban structure type corresponds to specific energy consumption standards (Table 2, Table 4). Below are detailed descriptions of two supplementary charts:
 
-- **Figure 1 (left): Building types distribution**
+- **Figure 1 (left): Figure 5(b) in the manuscript.**
    - Shows the relative energy intensity distribution of all buildings within a 25x25 grid.
    - Use a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, to visually display the energy distribution status of the entire area.
 
-- **Figure 2 (right): Building types distribution of LCZ**
-   - Shows the relative energy intensity of all buildings in each 25x25 grid to which LCZ category they correspond.
+- **Figure 2 (right): LCZ categories corresponding to the distribution of building types.**
+   - Shows the relative energy intensity of all buildings distribution in each 25x25 grid to which LCZ category they correspond.
    - Each grid cell is color-coded to represent a specific LCZ category, using a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, reflecting the impact of building structure and vegetation cover Urban microclimate.
+
+**By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban structures. 
+This proves that the HEEUP planning strategy is based on reasonable layout.**
 
 <p align="center">
   <img src="Energy.png" alt="Relative Energy Intensity Display" width="49%" />
   <img src="LCZ_gird.png" alt="LCZ Category Correspondence" width="49%" />
 </p>
-By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban buildings. 
-This proves that the HEEUP planning strategy is based on reasonable layout.
+
 
 ---
 - **Table 1: Building Types**
@@ -89,7 +92,6 @@ This proves that the HEEUP planning strategy is based on reasonable layout.
 | 5    | 3,423,751.57              |  13   | 623,545.11                |
 | 6    | 5,326,511.59              |  14   | 933,454.423               |
 | 7    | 2,059,901.91              |  15   | 246,323.32                |
-
 
 
 
